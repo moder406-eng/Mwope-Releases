@@ -4,7 +4,7 @@
 
 **Your world. Your rules. Your Feathers.** 🪶
 
-[![Version](https://img.shields.io/badge/version-0.0.2-blue.svg?style=for-the-badge)](#)
+[![Version](https://img.shields.io/badge/version-0.0.1-beta-blue.svg?style=for-the-badge)](#)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg?style=for-the-badge)](#)
 [![Status](https://img.shields.io/badge/status-Active-success.svg?style=for-the-badge)](#)
 
